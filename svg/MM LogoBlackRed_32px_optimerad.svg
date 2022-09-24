@@ -1,0 +1,23 @@
+<svg width="32" height="32" version="1.1" viewBox="0 0 8.4667 8.4667" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <clipPath id="clipPath2383">
+   <rect x="84.733" y="126.92" width="12.884" height="12.884" rx=".82805" ry=".82805" fill="none" stroke="#f00" stroke-width=".41403"/>
+  </clipPath>
+ </defs>
+ <g transform="translate(-77.354 -97.714)">
+  <g transform="matrix(1.0753 0 0 1.0753 -6.4029 -9.6745)" fill="#f00">
+   <g transform="matrix(.5943 0 0 .5943 27.643 24.549)" clip-path="url(#clipPath2383)" image-rendering="auto">
+    <title>blackRedLogo</title>
+    <polygon transform="matrix(.2644 0 0 .26458 85.027 128.47)" points="13.935 0 13.934 0 0 13.934 4.618 18.552 13.935 9.235 23.252 18.552 23.253 18.551 23.255 18.552 32.572 9.235 41.889 18.552 46.507 13.934 32.573 0 32.572 0 23.253 9.318" fill="#f00" data-name="logoMark &lt;PathItem&gt;"/>
+    <polygon transform="matrix(.2644 0 0 .26458 85.027 128.47)" points="13.935 0 13.934 0 0 13.934 4.618 18.552 13.935 9.235 23.252 18.552 23.253 18.551 23.255 18.552 32.572 9.235 41.889 18.552 46.507 13.934 32.573 0 32.572 0 23.253 9.318" fill="#000" data-name="logoMark &lt;PathItem&gt;"/>
+    <g fill="#f00">
+     <polygon transform="matrix(.2644 0 0 .26458 85.027 128.43)" points="32.57 18.552 23.253 27.869 13.936 18.552 9.319 23.17 23.253 37.104 23.254 37.104 37.188 23.17" data-name="logoMark &lt;PathItem&gt;"/>
+     <polygon transform="matrix(.2644 0 0 .26458 85.027 128.43)" points="32.57 18.552 23.253 27.869 13.936 18.552 9.319 23.17 23.253 37.104 23.254 37.104 37.188 23.17" data-name="logoMark &lt;PathItem&gt;"/>
+     <polygon transform="matrix(.2644 0 0 .26458 85.027 128.43)" points="32.57 18.552 23.253 27.869 13.936 18.552 9.319 23.17 23.253 37.104 23.254 37.104 37.188 23.17" data-name="logoMark &lt;PathItem&gt;"/>
+     <polygon transform="matrix(.2644 0 0 .26458 85.027 128.43)" points="32.57 18.552 23.253 27.869 13.936 18.552 9.319 23.17 23.253 37.104 23.254 37.104 37.188 23.17" data-name="logoMark &lt;PathItem&gt;"/>
+    </g>
+   </g>
+   <rect x="78" y="99.976" width="7.6571" height="7.6571" rx=".49211" ry=".49211" fill="none" stroke="#f00" stroke-width=".24605"/>
+  </g>
+ </g>
+</svg>
